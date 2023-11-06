@@ -1,0 +1,4 @@
+web/
+!web/protect
+config/*
+hugo/themes/hugo-theme-stack/assets/img/avatar.png
